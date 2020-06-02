@@ -45,7 +45,7 @@
   "dependencies": {
     "@types/quill": "^1.3.10",
     "lodash": "^4.17.4",
-    "quill": "git@github.com:c35p/quill.git#1.3.7-custom-dist"
+    "quill": "git+https://github.com:c35p/quill.git#1.3.7-custom-dist"
   },
   "peerDependencies": {
     "react": "^16.0.0",
