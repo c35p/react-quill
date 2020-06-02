@@ -12,7 +12,8 @@
 /node_modules
 
 # Compiled files
-/lib
+/dist
+#/lib
 
 # Packaging artifacts
 /react-quill-*.tgz
